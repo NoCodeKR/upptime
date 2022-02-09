@@ -7,8 +7,12 @@ sites:
     url: https://bubble.io/
   - name: Webflow
     url: https://webflow.com/
+  - name: Webflow
+    url: https://wappler.io/
   - name: FlutterFlow
     url: https://flutterflow.io/
+  - name: V.One
+    url: https://www.yourvone.com/
   - name: Glide
     url: https://www.glideapps.com/
   - name: Stacker
@@ -17,7 +21,12 @@ sites:
     url: https://www.softr.io/
   - name: Adalo
     url: https://www.adalo.com/
-
+  - name: Pory
+    url: https://pory.io/
+  - name: Sheet2Site
+    url: https://www.sheet2site.com/
+  - name: Table2Site
+    url: https://table2site.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
