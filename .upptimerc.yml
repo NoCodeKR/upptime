@@ -7,6 +7,17 @@ sites:
     url: https://bubble.io/
   - name: Webflow
     url: https://webflow.com/
+  - name: FlutterFlow
+    url: https://flutterflow.io/
+  - name: Glide
+    url: https://www.glideapps.com/
+  - name: Stacker
+    url: https://www.stackerhq.com/
+  - name: Softr
+    url: https://www.softr.io/
+  - name: Adalo
+    url: https://www.adalo.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
