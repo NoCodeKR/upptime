@@ -263,19 +263,19 @@
     "url": "https://tilda.cc/",
     "icon": "https://favicons.githubusercontent.com/tilda.cc",
     "slug": "tilda",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1298,
-    "timeDay": 1372,
-    "timeWeek": 1261,
-    "timeMonth": 1298,
-    "timeYear": 1298,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1523,
+    "timeDay": 3803,
+    "timeWeek": 1883,
+    "timeMonth": 1523,
+    "timeYear": 1523,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 20
     }
   },
   {
