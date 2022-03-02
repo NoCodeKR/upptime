@@ -79,19 +79,19 @@
     "url": "https://www.yourvone.com/",
     "icon": "https://favicons.githubusercontent.com/www.yourvone.com",
     "slug": "v-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 7767,
-    "timeWeek": 2161,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 795,
+    "timeDay": 5230,
+    "timeWeek": 1938,
+    "timeMonth": 795,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 9
     }
   },
   {
