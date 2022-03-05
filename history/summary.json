@@ -36,9 +36,7 @@
     "timeWeek": 549,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2022-03-05": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webflow",
@@ -56,9 +54,7 @@
     "timeWeek": 549,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2022-03-05": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FlutterFlow",
@@ -83,19 +79,19 @@
     "url": "https://www.yourvone.com/",
     "icon": "https://favicons.githubusercontent.com/www.yourvone.com",
     "slug": "v-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 147,
-    "timeWeek": 1730,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 696,
+    "timeDay": 193,
+    "timeWeek": 1598,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 9
     }
   },
   {
@@ -121,19 +117,19 @@
     "url": "https://www.stackerhq.com/",
     "icon": "https://favicons.githubusercontent.com/www.stackerhq.com",
     "slug": "stacker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 95,
-    "timeWeek": 163,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 186,
+    "timeDay": 140,
+    "timeWeek": 170,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 9
     }
   },
   {
@@ -161,19 +157,19 @@
     "url": "https://www.adalo.com/",
     "icon": "https://favicons.githubusercontent.com/www.adalo.com",
     "slug": "adalo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 68,
-    "timeWeek": 180,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 192,
+    "timeDay": 132,
+    "timeWeek": 189,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-03-05": 0
+      "2022-03-05": 9
     }
   },
   {
