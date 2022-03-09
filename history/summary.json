@@ -266,9 +266,9 @@
     "url": "https://tilda.cc/",
     "icon": "https://favicons.githubusercontent.com/tilda.cc",
     "slug": "tilda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -278,6 +278,7 @@
     "timeMonth": 1426,
     "timeYear": 1426,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2022-02-28": 20
     }
   },
