@@ -97,19 +97,19 @@
     "url": "https://www.glideapps.com/",
     "icon": "https://favicons.githubusercontent.com/www.glideapps.com",
     "slug": "glide",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 259,
-    "timeWeek": 201,
-    "timeMonth": 273,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 270,
+    "timeDay": 320,
+    "timeWeek": 223,
+    "timeMonth": 276,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2022-03-15": 0
+      "2022-03-15": 13
     }
   },
   {
