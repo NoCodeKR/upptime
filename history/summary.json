@@ -25,9 +25,9 @@
     "url": "https://webflow.com/",
     "icon": "https://favicons.githubusercontent.com/webflow.com",
     "slug": "webflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 614,
     "timeMonth": 569,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "Webflow",
     "url": "https://wappler.io/",
     "icon": "https://favicons.githubusercontent.com/wappler.io",
     "slug": "webflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +56,9 @@
     "timeWeek": 614,
     "timeMonth": 569,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 0
+    }
   },
   {
     "name": "FlutterFlow",
