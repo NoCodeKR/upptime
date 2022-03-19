@@ -37,7 +37,6 @@
     "timeMonth": 564,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-03-19": 0,
       "2022-03-18": 25
     }
   },
@@ -58,7 +57,6 @@
     "timeMonth": 564,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-03-19": 0,
       "2022-03-18": 25
     }
   },
@@ -85,19 +83,19 @@
     "url": "https://www.yourvone.com/",
     "icon": "https://favicons.githubusercontent.com/www.yourvone.com",
     "slug": "v-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 235,
-    "timeWeek": 251,
-    "timeMonth": 675,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 533,
+    "timeDay": 252,
+    "timeWeek": 255,
+    "timeMonth": 664,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2022-03-19": 0
+      "2022-03-19": 9
     }
   },
   {
@@ -123,19 +121,19 @@
     "url": "https://www.stackerhq.com/",
     "icon": "https://favicons.githubusercontent.com/www.stackerhq.com",
     "slug": "stacker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 204,
-    "timeWeek": 268,
-    "timeMonth": 202,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 201,
+    "timeDay": 253,
+    "timeWeek": 277,
+    "timeMonth": 206,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-03-19": 0
+      "2022-03-19": 9
     }
   },
   {
@@ -163,19 +161,19 @@
     "url": "https://www.adalo.com/",
     "icon": "https://favicons.githubusercontent.com/www.adalo.com",
     "slug": "adalo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 227,
-    "timeWeek": 417,
-    "timeMonth": 257,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 234,
+    "timeDay": 260,
+    "timeWeek": 406,
+    "timeMonth": 259,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-03-19": 0
+      "2022-03-19": 9
     }
   },
   {
