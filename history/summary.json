@@ -175,9 +175,9 @@
     "url": "https://pory.io/",
     "icon": "https://favicons.githubusercontent.com/pory.io",
     "slug": "pory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,7 +186,9 @@
     "timeWeek": 48,
     "timeMonth": 85,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-04": 0
+    }
   },
   {
     "name": "Sheet2Site",
