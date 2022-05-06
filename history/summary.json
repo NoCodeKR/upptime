@@ -25,9 +25,9 @@
     "url": "https://webflow.com/",
     "icon": "https://favicons.githubusercontent.com/webflow.com",
     "slug": "webflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -37,6 +37,7 @@
     "timeMonth": 557,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-21": 17,
       "2022-04-15": 17,
       "2022-03-18": 25
@@ -47,9 +48,9 @@
     "url": "https://wappler.io/",
     "icon": "https://favicons.githubusercontent.com/wappler.io",
     "slug": "webflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -59,6 +60,7 @@
     "timeMonth": 557,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-21": 17,
       "2022-04-15": 17,
       "2022-03-18": 25
