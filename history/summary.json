@@ -6,7 +6,7 @@
     "slug": "bubble",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 473,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2022-06-01": 0,
       "2022-02-25": 77,
       "2022-02-24": 2
     }
@@ -201,18 +202,19 @@
     "url": "https://www.sheet2site.com/",
     "icon": "https://favicons.githubusercontent.com/www.sheet2site.com",
     "slug": "sheet2-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 338,
-    "timeDay": 107,
-    "timeWeek": 314,
-    "timeMonth": 251,
-    "timeYear": 338,
+    "time": 336,
+    "timeDay": 99,
+    "timeWeek": 286,
+    "timeMonth": 246,
+    "timeYear": 336,
     "dailyMinutesDown": {
+      "2022-06-01": 0,
       "2022-04-26": 141,
       "2022-03-05": 20,
       "2022-02-24": 26
