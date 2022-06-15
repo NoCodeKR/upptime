@@ -226,19 +226,19 @@
     "url": "https://table2site.com/",
     "icon": "https://favicons.githubusercontent.com/table2site.com",
     "slug": "table2-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 388,
-    "timeWeek": 338,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 383,
+    "timeDay": 354,
+    "timeWeek": 336,
     "timeMonth": 338,
-    "timeYear": 384,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 11
     }
   },
   {
