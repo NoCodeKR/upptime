@@ -144,10 +144,10 @@
     "url": "https://www.softr.io/",
     "icon": "https://favicons.githubusercontent.com/www.softr.io",
     "slug": "softr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1248,
@@ -156,6 +156,7 @@
     "timeMonth": 1268,
     "timeYear": 1248,
     "dailyMinutesDown": {
+      "2022-06-15": 0,
       "2022-06-13": 40,
       "2022-04-23": 19,
       "2022-04-13": 22,
@@ -227,19 +228,17 @@
     "icon": "https://favicons.githubusercontent.com/table2site.com",
     "slug": "table2-site",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 354,
     "timeWeek": 336,
     "timeMonth": 338,
     "timeYear": 383,
-    "dailyMinutesDown": {
-      "2022-06-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Squarespace",
