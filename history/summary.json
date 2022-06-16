@@ -308,19 +308,19 @@
     "url": "https://www.wix.com/",
     "icon": "https://favicons.githubusercontent.com/www.wix.com",
     "slug": "wix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 262,
-    "timeWeek": 346,
-    "timeMonth": 284,
-    "timeYear": 462,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 461,
+    "timeDay": 253,
+    "timeWeek": 334,
+    "timeMonth": 283,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 15
     }
   },
   {
