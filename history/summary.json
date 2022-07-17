@@ -151,12 +151,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1377,
     "timeDay": 1421,
     "timeWeek": 1259,
-    "timeMonth": 1969,
+    "timeMonth": 1184,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2022-06-17": 20,
@@ -233,9 +233,9 @@
     "url": "https://table2site.com/",
     "icon": "https://favicons.githubusercontent.com/table2site.com",
     "slug": "table2-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -244,7 +244,9 @@
     "timeWeek": 470,
     "timeMonth": 383,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 0
+    }
   },
   {
     "name": "Squarespace",
